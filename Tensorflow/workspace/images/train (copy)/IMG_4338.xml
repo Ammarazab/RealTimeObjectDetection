@@ -1,0 +1,26 @@
+<annotation>
+	<folder>0</folder>
+	<filename>IMG_4338.JPG</filename>
+	<path>/home/ammar/RealTimeObjectDetection/Tensorflow/workspace/images/collectedimages/IMG_4338.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>100</width>
+		<height>100</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zero</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>17</ymin>
+			<xmax>80</xmax>
+			<ymax>94</ymax>
+		</bndbox>
+	</object>
+</annotation>

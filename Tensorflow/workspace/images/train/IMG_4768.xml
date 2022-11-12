@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3</folder>
+	<filename>IMG_4768.JPG</filename>
+	<path>/content/RealTimeObjectDetection/Tensorflow/workspace/images/collectedimages/IMG_4768.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>100</width>
+		<height>100</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>three</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>4</ymin>
+			<xmax>96</xmax>
+			<ymax>99</ymax>
+		</bndbox>
+	</object>
+</annotation>
